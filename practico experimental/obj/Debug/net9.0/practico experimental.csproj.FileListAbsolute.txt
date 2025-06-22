@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Estructura de Datos 2025\practico experimental\bin\Debug\net9.0\practico experimental.exe
+C:\Users\Usuario\Desktop\Estructura de Datos 2025\practico experimental\bin\Debug\net9.0\practico experimental.deps.json
+C:\Users\Usuario\Desktop\Estructura de Datos 2025\practico experimental\bin\Debug\net9.0\practico experimental.runtimeconfig.json
+C:\Users\Usuario\Desktop\Estructura de Datos 2025\practico experimental\bin\Debug\net9.0\practico experimental.dll
+C:\Users\Usuario\Desktop\Estructura de Datos 2025\practico experimental\bin\Debug\net9.0\practico experimental.pdb
+C:\Users\Usuario\Desktop\Estructura de Datos 2025\practico experimental\obj\Debug\net9.0\practico experimental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Estructura de Datos 2025\practico experimental\obj\Debug\net9.0\practico experimental.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Estructura de Datos 2025\practico experimental\obj\Debug\net9.0\practico experimental.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Estructura de Datos 2025\practico experimental\obj\Debug\net9.0\practico experimental.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estructura de Datos 2025\practico experimental\obj\Debug\net9.0\practico experimental.sourcelink.json
+C:\Users\Usuario\Desktop\Estructura de Datos 2025\practico experimental\obj\Debug\net9.0\practico experimental.dll
+C:\Users\Usuario\Desktop\Estructura de Datos 2025\practico experimental\obj\Debug\net9.0\refint\practico experimental.dll
+C:\Users\Usuario\Desktop\Estructura de Datos 2025\practico experimental\obj\Debug\net9.0\practico experimental.pdb
+C:\Users\Usuario\Desktop\Estructura de Datos 2025\practico experimental\obj\Debug\net9.0\practico experimental.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Estructura de Datos 2025\practico experimental\obj\Debug\net9.0\ref\practico experimental.dll
