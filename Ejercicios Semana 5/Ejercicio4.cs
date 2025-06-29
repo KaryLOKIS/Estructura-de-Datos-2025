@@ -1,5 +1,5 @@
 System.Console.WriteLine("Universidad Estatal Amazonica");
-System.Console.WriteLine("Ejercicio 4;
+System.Console.WriteLine("Ejercicio 4");
 
 class Ejercicio4
 {
