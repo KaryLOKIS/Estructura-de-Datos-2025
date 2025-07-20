@@ -1,3 +1,6 @@
+Console.WriteLine("Universidad Estatal Amazonica");
+Console.WriteLine("Practico Experimetnal 2 ");
+
 public class Atraccion
 {
     public static void run()
@@ -54,7 +57,7 @@ public class Atraccion
     public static void cantidadElementos(List<string> asientos, Queue<string> cola)
     {
         System.Console.WriteLine();
-        System.Console.WriteLine("🎫 Total de personas con asiento: " + asientos.Count);
-        System.Console.WriteLine("🚶 Personas aún en espera: " + cola.Count);
+        System.Console.WriteLine("Total de personas con asiento: " + asientos.Count);
+        System.Console.WriteLine("Personas aún en espera: " + cola.Count);
     }
 }
