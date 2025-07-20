@@ -1,5 +1,5 @@
 Console.WriteLine("Universidad Estatal Amazonica");
-Console.WriteLine("Practico Experimetnal 2 ");
+Console.WriteLine("Practico Experimental 2 ");
 
 public class Atraccion
 {
